@@ -3,11 +3,19 @@ Airbnb_Guest_Sentiment_Analysis
 # Seattle_Airbnb_Open_Data_NLP_Guest_Comment_Analysis
 
 
- 1) Here I am going to observe room prices regarding to date
- 2) Effects of client reviews on price.
- 3) Finally we are going to investigate  guest comments and prices and try to predict price of accommodation regarding to the guest comments.
- We have 3 dataset, 
-  Lets take a look what are they
+![image.png](attachment:b70b1819-6678-4453-9333-0ad3de25e1cb.png)
+#  Lets take a look what are they
+
+# Business Understanding
+* This project's purpose is how to acquire new clients and how to determine an optimum price to offer our services to clients for income maximization.
+
+# Brief description
+* Here Airbnb  Seattle open dataset is going to be investigated for the price adjustment and for understanding of which features effects the accommodation prices.
+* Here we have 3 datasets and these datasets will be analysed seperately and also together to extract some valuable information.
+
+* Question 1 Here I am going to observe room prices regarding to date
+* Question 2 Effects of features on price.
+* Question 3 Finally we are going to investigate  guest comments and prices and try to predict price of accommodation regarding to the guest comments.
 
  this dataframe shows  prices-dates-listing_id and availability
  so that we can may be extract some information of the seasonality of the prices 
